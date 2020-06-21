@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "136662612504",
+    "firebase_url": "https://bookclub-23c4a.firebaseio.com",
+    "project_id": "bookclub-23c4a",
+    "storage_bucket": "bookclub-23c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136662612504:android:81f72ed12c2844bf86616d",
+        "android_client_info": {
+          "package_name": "com.flutter.book_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136662612504-oc016pd1sjq9oe0pjr6cr1aavmn073vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.book_club",
+            "certificate_hash": "f650e22bad5b2e6d758cfef2aaaf363a9310428a"
+          }
+        },
+        {
+          "client_id": "136662612504-59ga15mg6l5n23tnlm8iqodmedu9gk95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcN7M5jCgpWrqR86CBkfJaN1GjzbJgFA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136662612504-59ga15mg6l5n23tnlm8iqodmedu9gk95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136662612504-qsk5t35f38vcgcvorkvnduqnrpol7l1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.bookClub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
